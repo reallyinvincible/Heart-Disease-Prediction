@@ -2,7 +2,7 @@ Machine Learning Engineering Capstone Proposal
 
 # Heart Disease Prediction: Saving lives using Machine Learning
 
-Sparsh Srivastava
+by Sparsh Srivastava
 
 ## A) Domain Background: Overview
 
