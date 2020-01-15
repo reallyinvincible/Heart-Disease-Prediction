@@ -112,3 +112,8 @@ The diagram above gives an overview of how the various services will work togeth
 In the middle we will construct a Lambda function, which is a straightforward Python function that can be executed whenever a specified event occurs. We will give this function permission to send and recieve data from a SageMaker endpoint.
 
 Lastly, the method we will use to execute the Lambda function is a new endpoint that we will create using API Gateway. This endpoint will be a url that listens for data to be sent to it. Once it gets some data it will pass that data on to the Lambda function and then return whatever the Lambda function returns. Essentially it will act as an interface that lets our web app communicate with the Lambda function.
+
+
+## H) Instructions
+Download the app now at https://drive.google.com/open?id=1GAwMzpm2d4pHfGMnfSLHaoyneTo5EylK  
+Install on any Android Phone to try out the hosted model.
