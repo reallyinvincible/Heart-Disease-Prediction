@@ -117,5 +117,5 @@ Lastly, the method we will use to execute the Lambda function is a new endpoint 
 ## H) Instructions
 Everything has been explained and summarized in the Python Notebook.  
 I have even made an Android App.  
-Download the app now at https://drive.google.com/open?id=1GAwMzpm2d4pHfGMnfSLHaoyneTo5EylK  
+Download the app now at https://drive.google.com/open?id=1mdBnZlFJ9OF0e4bUtgR0Htkl-y2y-QSI
 Install on any Android Phone to try out the hosted model.
