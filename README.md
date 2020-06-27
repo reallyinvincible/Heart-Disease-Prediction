@@ -118,5 +118,3 @@ Lastly, the method we will use to execute the Lambda function is a new endpoint 
 Everything has been explained and summarized in the Python Notebook.  
 I have made an Android App - [Salveo](https://github.com/reallyinvincible/Salveo) that goes with this model.
 <br>
-Download the app now at https://drive.google.com/open?id=1mdBnZlFJ9OF0e4bUtgR0Htkl-y2y-QSI
-Install on any Android Phone to try out the hosted model.
